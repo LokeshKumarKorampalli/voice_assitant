@@ -1,0 +1,6 @@
+{
+    "whisper_model": "base",
+    "piper_tts_path": "E:\\Voice_assitant\\SST_TTS-main",
+    "whisper_stt_path": "E:\\Voice_assitant\\STT-main",
+    "ffmpeg_path": "E:\\Voice_assitant\\STT-main\\ffmpeg-7.1.1-essentials_build\\bin"
+}
