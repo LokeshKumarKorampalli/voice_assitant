@@ -1,0 +1,43 @@
+{
+  "transcription": " I am bored because I am jobless, I am jobless because I am bored and I am bored.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " I am bored because I am jobless, I am jobless because I am bored and I am bored.",
+      "tokens": [
+        50364,
+        286,
+        669,
+        13521,
+        570,
+        286,
+        669,
+        1691,
+        1832,
+        11,
+        286,
+        669,
+        1691,
+        1832,
+        570,
+        286,
+        669,
+        13521,
+        293,
+        286,
+        669,
+        13521,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3192934036254883,
+      "compression_ratio": 1.6326530612244898,
+      "no_speech_prob": 0.24232910573482513
+    }
+  ]
+}

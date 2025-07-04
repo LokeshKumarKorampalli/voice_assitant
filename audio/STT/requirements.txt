@@ -1,0 +1,18 @@
+# STT-TTS Integration Requirements
+# whisper-openai>=20231117
+# pyaudio>=0.2.11
+# numpy>=1.21.0
+# pathlib>=1.0.1
+
+# # Optional (for better audio handling)
+# pydub>=0.25.1
+# scipy>=1.7.0
+speechbrain
+torch
+torchaudio
+librosa
+numpy
+pyaudio
+matplotlib
+seaborn
+pandas
